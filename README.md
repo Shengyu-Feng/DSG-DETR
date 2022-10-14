@@ -49,7 +49,7 @@ python train.py -mode sgdet -datasize large -data_path $DATAPATH
 
 ## Evaluation
 You can evaluate the **DSG-DETR** with test.py.
-+ For PredCLS ([trained Model](https://drive.google.com/file/d/1Sk5qFLWTZmwr63fHpy_C7oIxZSQU16vU/view?usp=sharing)): 
++ For PredCLS ([trained Model](https://drive.google.com/file/d/18oFR8hfH3W84AYjR1yktsjQKeIlKbilo/view?usp=sharing)): 
 ```
 python test.py -m predcls -datasize large -data_path $DATAPATH -model_path $MODELPATH
 ```

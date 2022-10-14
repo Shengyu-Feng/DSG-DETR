@@ -1,0 +1,9 @@
+data
+action_genome
+models
+*ipynb
+fasterRCNN/models/faster_rcnn_ag.pth
+dataloader/*pkl
+./lib/fpn
+__pycache__
+
