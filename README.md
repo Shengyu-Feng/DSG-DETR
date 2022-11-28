@@ -1,5 +1,5 @@
 # Dynamic Scene Graph Detection Transformer (DSG-DETR)
-Pytorch implementation of [Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs], WACV 2023. Our code uses the [Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021] repository (https://github.com/yrcong/STTran) as a baseline. 
+Pytorch implementation of [Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs](https://arxiv.org/abs/2112.09828), WACV 2023. Our code uses the [Spatial-Temporal Transformer for Dynamic Scene Graph Generation, ICCV 2021] repository (https://github.com/yrcong/STTran) as a baseline. 
 
 
 **About the code**
@@ -70,19 +70,12 @@ If you find our work helpful, please cite our paper:
 ```
 @misc{https://doi.org/10.48550/arxiv.2112.09828,
   doi = {10.48550/ARXIV.2112.09828},
-  
   url = {https://arxiv.org/abs/2112.09828},
-  
   author = {Feng, Shengyu and Tripathi, Subarna and Mostafa, Hesham and Nassar, Marcel and Majumdar, Somdeb},
-  
   keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
   title = {Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs},
-  
   publisher = {arXiv},
-  
   year = {2021},
-  
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 
